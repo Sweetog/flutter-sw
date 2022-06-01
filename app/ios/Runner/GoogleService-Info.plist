@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>104346589005-nd7126usdepkedj3dbqubdinuaknjda5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.104346589005-nd7126usdepkedj3dbqubdinuaknjda5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCgsgku3Db__vrafNm9Yb438u136syv9ZQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>104346589005</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sweetog.sandbox</string>
+	<key>PROJECT_ID</key>
+	<string>sandbox-e18a3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sandbox-e18a3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:104346589005:ios:99b39e45b693fd9d208904</string>
+	<key>DATABASE_URL</key>
+	<string>https://sandbox-e18a3.firebaseio.com</string>
+</dict>
+</plist>

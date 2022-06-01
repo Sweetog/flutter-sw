@@ -1,0 +1,15 @@
+export interface Job {
+  id: string,
+  address: string,
+  completedDate: any,
+  inlets?: any,
+  location: any,
+  name: string,
+  startDate: any,
+  state: string,
+  zip: string,
+  Route?: string,
+  serviceCode?: string,
+  serviceNote?: string,
+  status?: string,
+}

@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noImplicitAny": false,
+    "outDir": "ts-transpilation",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2017",
+    "lib": [
+      "es2017",
+      "esnext.asynciterable",
+    ]
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ],
+  "files": [
+    "src/custom.d.ts"
+  ]
+}
